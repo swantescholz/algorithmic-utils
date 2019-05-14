@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../aoc/.idea/aoc.iml" filepath="$PROJECT_DIR$/../aoc/.idea/aoc.iml" />
+      <module fileurl="file://$USER_HOME$/ownCloud/upb/dece/recommender/swante/data-preparer/.idea/data-preparer.iml" filepath="$USER_HOME$/ownCloud/upb/dece/recommender/swante/data-preparer/.idea/data-preparer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/plothelper.iml" filepath="$PROJECT_DIR$/.idea/plothelper.iml" />
+      <module fileurl="file://$USER_HOME$/ownCloud/upb/MA-thesis/ma-code/pyastro/.idea/pyastro.iml" filepath="$USER_HOME$/ownCloud/upb/MA-thesis/ma-code/pyastro/.idea/pyastro.iml" />
+    </modules>
+  </component>
+</project>
